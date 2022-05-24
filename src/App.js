@@ -5,7 +5,7 @@ import { Routes } from "react-router-dom";
 
 function App() {
   return (
-    <div className="mx-auto container ">
+    <div>
       <Home />
       <Routes></Routes>
     </div>

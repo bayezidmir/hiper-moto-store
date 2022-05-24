@@ -13,8 +13,8 @@ const Products = () => {
       });
   }, []);
   return (
-    <div>
-      <h2 className="text-4xl text-neutral font-semibold mb-5">
+    <div className="mx-auto container ">
+      <h2 className="text-4xl text-neutral font-semibold mb-5 ">
         Available Products
       </h2>
       <hr />

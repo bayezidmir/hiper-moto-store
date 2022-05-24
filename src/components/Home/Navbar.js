@@ -19,7 +19,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-base-100 mx-auto container ">
       <div className="navbar-start">
         <a className="btn btn-ghost normal-case text-xl"> HiPer Moto Store</a>
       </div>
