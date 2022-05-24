@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Drum Brake Shoe",
+    "price": "480",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/BBdNdsY/Brake-Shoe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Golden Chain Set",
+    "price": "2200",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/yFfLTZB/chain.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hydraulic Disk Brake",
+    "price": "1800",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/jfjq6nw/disk-brake.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Power TRONIC ECU",
+    "price": "18000",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/VMkf3Rm/ECU.png"
+  },
+  {
+    "id": 5,
+    "name": "Rear Shock Absorber",
+    "price": "1500",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/hXFR4CS/rear-shock-absorber.jpg"
+  },
+  {
+    "id": 6,
+    "name": "USD Shock Absorber",
+    "price": "4800",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+    "img": "https://i.ibb.co/sC7GWCx/USD.jpg"
+  }
+]
