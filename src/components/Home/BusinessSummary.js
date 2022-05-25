@@ -9,7 +9,7 @@ import {
 
 const BusinessSummary = () => {
   return (
-    <div className="mt-10 bg-orange-100 p-5 rounded">
+    <div className="my-20 bg-orange-100 p-5 rounded">
       <h1 className="text-3xl text-center font-semibold">Our Achievements</h1>
       <h1 className="text-2xl text-center">In a Glimpse</h1>
       <div className="flex justify-around mt-10">
@@ -17,7 +17,6 @@ const BusinessSummary = () => {
           <FontAwesomeIcon
             icon={faTruck}
             size="4x"
-            transform={{ rotate: 10 }}
             className="text-neutral mb-7"
           />
           <p className="text-xl font-semibold">1125620+</p>

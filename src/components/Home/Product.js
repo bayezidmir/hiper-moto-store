@@ -2,14 +2,14 @@ import React from "react";
 
 const Product = ({ productInfo }) => {
   const { name, price, description, img } = productInfo;
-  console.log(productInfo);
+
   return (
-    <div class="card lg:card-side bg-base-100 shadow-xl ">
+    <div className="card lg:card-side bg-base-100 shadow-xl ">
       <figure>
         <img src={img} alt="Album" />
       </figure>
-      <div class="card-body">
-        <h2 class="card-title">{name}</h2>
+      <div className="card-body">
+        <h2 className="card-title">{name}</h2>
         <p>
           <span>Min Order Quantity:</span>{" "}
           <span className="font-semibold">500 Pieces</span>{" "}
@@ -23,8 +23,8 @@ const Product = ({ productInfo }) => {
         <p className="text-lg font-semibold">
           Price: <span className="font-bold">{price}/ unit</span>
         </p>
-        <div class="card-actions justify-end">
-          <button class="btn btn-warning">Place Order</button>
+        <div className="card-actions justify-end">
+          <button className="btn btn-warning">Place Order</button>
         </div>
       </div>
     </div>
